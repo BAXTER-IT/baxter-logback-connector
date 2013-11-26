@@ -4,6 +4,12 @@
 
     <body>
 
+        <release version="1.0.1" date="2013-11-26" description="Log Connector versions">
+            <action type="fix" dev="ykryshchuk">
+            Added dependency to slf4j-api.
+            </action>
+        </release>
+        
         <release version="1.0" date="2013-11-26" description="Log Connector versions">
             <action type="add" issue="PE-3856" dev="ykryshchuk" system="JIRA">
             Initial release for Log Connectors.

@@ -122,10 +122,6 @@
                                     <provides>${unix.package},${connector-type}</provides>
                                 </deb>
                                 <assembly combine.children="append">
-                                    <copyArtifact>
-                                        <artifact>org.slf4j:slf4j-api</artifact>
-                                        <toDir>${unix.application.lib.dir}</toDir>
-                                    </copyArtifact>
                                     <copyFile>
                                         <path>${project.build.directory}/${project.build.finalName}.jar</path>
                                         <toDir>${unix.application.lib.dir}</toDir>
