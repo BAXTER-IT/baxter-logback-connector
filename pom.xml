@@ -16,9 +16,9 @@
     <url>https://repository-baxter.forge.cloudbees.com/private/sites/logback-connector/</url>
 
     <scm>
-        <connection>scm:git:ssh://git@git.cloudbees.com/baxter/baxter-logback-connector.git</connection>
-        <developerConnection>scm:git:ssh://git@git.cloudbees.com/baxter/baxter-logback-connector.git</developerConnection>
-        <url>ssh://git@git.cloudbees.com/baxter/baxter-logback-connector.git</url>
+        <connection>scm:git:ssh://git@github.com:BAXTER-IT/baxter-logback-connector.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com:BAXTER-IT/baxter-logback-connector.git</developerConnection>
+        <url>ssh://git@github.com:BAXTER-IT/baxter-logback-connector.git</url>
         <tag>HEAD</tag>
     </scm>
 
