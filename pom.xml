@@ -12,7 +12,7 @@
     <groupId>com.baxter.connector.log</groupId>
     <artifactId>baxter-logback-connector</artifactId>
     <name>Baxter Logback Connector</name>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.13</version>
 
     <url>https://repository-baxter.forge.cloudbees.com/private/sites/logback-connector/</url>
 
