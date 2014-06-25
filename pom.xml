@@ -8,7 +8,7 @@
         <version>1.0.3</version>
     </parent>
 
-    <groupId>com.baxter.log</groupId>
+    <groupId>com.baxter.connector.log</groupId>
     <artifactId>baxter-logback-connector</artifactId>
     <name>Baxter Logback Connector</name>
     <version>0.0.2-SNAPSHOT</version>
@@ -180,7 +180,7 @@
 
     <properties>
         <!-- Note the artifact version should be in sync on release -->
-        <logback.version>1.0.13</logback.version>
+        <logback.version>${project.version}</logback.version>
         <!-- Same value for all Log Connectors -->
         <connector-type>baxter-log-connector</connector-type>
     </properties>
